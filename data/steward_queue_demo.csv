@@ -1,0 +1,21 @@
+record_id,source_system,source_priority,first_name,last_name,middle_name,date_of_birth,gender,ssn_last4,address_line1,city,state,zip_code,phone,email,mrn,insurance_id,record_created,record_updated
+Q0001,EHR,1,Nicholas,Moore,,1978-04-25,M,2298,614 Cedar Drive,Denver,CO,80205,303-555-0567,nicholas.moore@healthsys.org,MRN-20001,,2019-04-10,2024-01-15
+Q0002,CLAIMS,3,Nikolas,Moore,,1978-04-25,M,,614 Cedar Drive,Denver,CO,80205,3035550567,,MRN-20001,INS-BC-2001,2020-09-22,2024-02-28
+Q0003,EHR,1,Marilyn,Saunders,,1968-05-17,F,9901,303 Magnolia Lane,Dallas,TX,75209,214-555-0789,marilyn.saunders@healthsys.org,MRN-20002,,2019-04-10,2024-01-15
+Q0004,CLAIMS,3,Marylyn,Saunders,,1968-05-17,F,,303 Magnolia Lane,Dallas,TX,75209,2145550789,,MRN-20002,INS-UH-2002,2020-09-22,2024-02-28
+Q0005,EHR,1,Cathy,Hoffman,,1980-08-31,F,5512,89 Ironwood Drive,San Diego,CA,92102,619-555-0234,cathy.hoffman@healthsys.org,MRN-20003,,2019-04-10,2024-01-15
+Q0006,CLAIMS,3,Kathy,Hoffman,,1980-08-31,F,,89 Ironwood Drive,San Diego,CA,92102,6195550234,,MRN-20003,INS-AET-2003,2020-09-22,2024-02-28
+Q0007,EHR,1,Harold,Strickland,,1961-03-18,M,7741,421 Poplar Street,Memphis,TN,38105,901-555-0145,harold.strickland@healthsys.org,MRN-20004,,2019-04-10,2024-01-15
+Q0008,CLAIMS,3,Arnold,Strickland,,1961-03-18,M,,421 Poplar Street,Memphis,TN,38105,9015550145,,MRN-20004,INS-CIG-2004,2020-09-22,2024-02-28
+Q0009,EHR,1,Dolores,Fitzgerald,,1955-11-22,F,4490,88 Cottonwood Road,Minneapolis,MN,55402,612-555-0456,dolores.fitzgerald@healthsys.org,MRN-20005,,2019-04-10,2024-01-15
+Q0010,CLAIMS,3,Delores,Fitzgerald,,1955-11-22,F,,88 Cottonwood Road,Minneapolis,MN,55402,6125550456,,MRN-20005,INS-HUM-2005,2020-09-22,2024-02-28
+Q0011,EHR,1,Lynda,Chambers,,1972-07-09,F,6612,77 Sequoia Avenue,Atlanta,GA,30306,404-555-0678,lynda.chambers@healthsys.org,MRN-20006,,2019-04-10,2024-01-15
+Q0012,CLAIMS,3,Linda,Chambers,,1972-07-09,F,,77 Sequoia Avenue,Atlanta,GA,30306,4045550678,,MRN-20006,INS-MOL-2006,2020-09-22,2024-02-28
+Q0013,EHR,1,Clarence,Whitfield,,1967-09-30,F,3321,500 Dogwood Boulevard,Boston,MA,02110,617-555-0234,clarence.whitfield@healthsys.org,MRN-20007,,2019-04-10,2024-01-15
+Q0014,CLAIMS,3,Clarice,Whitfield,,1967-09-30,F,,500 Dogwood Boulevard,Boston,MA,02110,6175550234,,MRN-20007,INS-CVS-2007,2020-09-22,2024-02-28
+Q0015,EHR,1,Clifford,Benson,,1975-12-14,M,8834,245 Juniper Court,Las Vegas,NV,89103,702-555-0891,clifford.benson@healthsys.org,MRN-20008,,2019-04-10,2024-01-15
+Q0016,CLAIMS,3,Clifton,Benson,,1975-12-14,M,,245 Juniper Court,Las Vegas,NV,89103,7025550891,,MRN-20008,INS-KAI-2008,2020-09-22,2024-02-28
+Q0017,EHR,1,Bernadette,Holloway,,1983-02-27,F,9923,158 Palmetto Way,Cincinnati,OH,45201,513-555-0892,bernadette.holloway@healthsys.org,MRN-20009,,2019-04-10,2024-01-15
+Q0018,CLAIMS,3,Bernadine,Holloway,,1983-02-27,F,,158 Palmetto Way,Cincinnati,OH,45201,5135550892,,MRN-20009,INS-BC-2009,2020-09-22,2024-02-28
+Q0019,EHR,1,Ferdinand,Castellano,,1970-06-05,M,2256,1901 Hawthorn Lane,Chicago,IL,60615,312-555-0345,ferdinand.castellano@healthsys.org,MRN-20010,,2019-04-10,2024-01-15
+Q0020,CLAIMS,3,Fernand,Castellano,,1970-06-05,M,,1901 Hawthorn Lane,Chicago,IL,60615,3125550345,,MRN-20010,INS-UH-2010,2020-09-22,2024-02-28

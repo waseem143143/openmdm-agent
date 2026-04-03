@@ -1,0 +1,21 @@
+record_id,source_system,source_priority,first_name,last_name,middle_name,date_of_birth,gender,ssn_last4,address_line1,city,state,zip_code,phone,email,mrn,insurance_id,record_created,record_updated
+AMB001,EHR,1,Robert,Walsh,James,1971-06-15,M,3341,2210 Birchwood Avenue,Columbus,OH,43201,614-772-0193,rwalsh@gmail.com,MRN-33401,,2018-03-10,2024-01-15
+AMB002,CLAIMS,3,Robert,Welsh,,1971-06-15,M,,2210 Birchwood Ave,Columbus,OH,43201,6147720193,,MRN-33401,INS-OH-5512,2019-07-22,2024-02-28
+AMB003,EHR,1,Sandra,Price,Lynn,1983-11-02,F,7892,88 Lakeview Drive,Memphis,TN,38101,901-345-0781,sprice@yahoo.com,MRN-44512,,2020-01-08,2023-11-30
+AMB004,CLAIMS,3,Sandra,Pryce,,1983-11-02,F,,88 Lakeview Dr,Memphis,TN,38101,9013450781,,MRN-44512,INS-TN-3301,2021-03-14,2024-03-01
+AMB005,EHR,1,Kevin,Stone,Scott,1965-09-28,M,4421,501 Riverside Road,Louisville,KY,40201,502-891-0334,kstone@work.com,MRN-55234,,2016-05-19,2023-12-20
+AMB006,PHARMACY,5,Kevin,Stoan,,1965-09-28,M,,501 Riverside Rd,Louisville,KY,40201,502-891-0334,,,INS-KY-8821,2022-08-07,2024-01-10
+AMB007,EHR,1,Patricia,Ryan,Ann,1958-03-17,F,6634,1475 Magnolia Boulevard,Shreveport,LA,71101,318-220-0567,pryan@email.com,MRN-66781,,2014-09-03,2023-10-15
+AMB008,CLAIMS,3,Patricia,Ryon,,1958-03-17,F,,1475 Magnolia Blvd,Shreveport,LA,71101,3182200567,,MRN-66781,INS-LA-4490,2015-11-25,2024-02-14
+AMB009,EHR,1,Thomas,Nash,Edward,1979-07-04,M,1123,334 Oakdale Street,Providence,RI,02901,401-553-0892,tnash@email.com,MRN-77345,,2019-02-28,2024-01-22
+AMB010,CLAIMS,3,Thomas,Nesh,,1979-07-04,M,,334 Oakdale St,Providence,RI,02901,4015530892,,MRN-77345,INS-RI-2210,2020-06-15,2024-03-10
+AMB011,EHR,1,Angela,Miles,Rose,1986-12-11,F,9934,789 Cedar Lane,Madison,WI,53701,608-441-0278,amiles@gmail.com,MRN-88123,,2021-04-17,2024-02-05
+AMB012,CLAIMS,3,Angela,Myles,,1986-12-11,F,,789 Cedar Lane,Madison,WI,53701,6084410278,,MRN-88123,INS-WI-6612,2022-08-30,2024-03-15
+AMB013,EHR,1,Christine,Gray,Marie,1992-04-23,F,2278,42 Pinehurst Avenue,Omaha,NE,68101,402-667-0445,cgray@email.com,MRN-99012,,2022-01-09,2024-01-30
+AMB014,PHARMACY,5,Christine,Grey,,1992-04-23,F,,42 Pinehurst Ave,Omaha,NE,68101,402-667-0445,,,INS-NE-3345,2023-03-22,2024-02-18
+AMB015,EHR,1,Marcus,Hunt,Dale,1974-08-30,M,5567,1901 Broadway,New York,NY,10001,212-334-0789,mhunt@nyc.com,MRN-10234,,2017-06-14,2023-11-05
+AMB016,CLAIMS,3,Marcus,Hant,,1974-08-30,M,,1901 Broadway Apt 7C,New York,NY,10001,2123340789,,MRN-10234,INS-NY-7712,2018-09-01,2024-03-20
+AMB017,EHR,1,Denise,Pearce,Joy,1968-01-19,F,8801,655 Willow Creek Road,Tucson,AZ,85701,520-778-0234,dpearce@email.com,MRN-21345,,2015-12-01,2023-09-18
+AMB018,CLAIMS,3,Denise,Pierce,,1968-01-19,F,,655 Willow Creek Rd,Tucson,AZ,85701,5207780234,,MRN-21345,INS-AZ-9901,2016-07-14,2024-01-25
+AMB019,EHR,1,Victor,Burns,Paul,1956-05-07,M,3312,2280 Spruce Avenue,Richmond,VA,23201,804-556-0891,vburns@retired.com,MRN-32456,,2013-08-22,2023-08-30
+AMB020,CLAIMS,3,Victor,Berns,,1956-05-07,M,,2280 Spruce Ave,Richmond,VA,23201,8045560891,,MRN-32456,INS-VA-4423,2014-10-11,2024-02-08
